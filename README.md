@@ -7,8 +7,6 @@
 ## Background
 This project was to present a graphical analysis of past project undertaken by The World Bank.
 
-**Source of Data**: https://www.kaggle.com/world-bank-datasets
-
 *The data is used from World Bank data which comes from two sources:*
 
 * World Bank Indicator Data: This data contains socio-economic indicators for countries around the world
