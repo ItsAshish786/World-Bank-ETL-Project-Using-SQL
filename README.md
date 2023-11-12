@@ -1,13 +1,13 @@
 # WorldBank Data - Extract Tranform & Load
 
-## Team World Bankers: Rudy Duvnjak, Shailesh Godkhindi, Shreya Udeshi
+
 
 ![World Bankers](/Project2/images/bank.gif)
 
 ## Background
 This project was to present a graphical analysis of past project undertaken by The World Bank.
 
-**Source of Data**: https://www.kaggle.com/nilaychauhan/world-bank-datasets
+**Source of Data**: https://www.kaggle.com/world-bank-datasets
 
 *The data is used from World Bank data which comes from two sources:*
 
